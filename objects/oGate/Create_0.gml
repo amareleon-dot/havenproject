@@ -1,0 +1,1 @@
+global.open[key] = false;
