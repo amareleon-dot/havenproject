@@ -42,15 +42,15 @@
   "name":"sGround",
   "nineSlice":{
     "$GMNineSliceData":"",
-    "bottom":3,
+    "bottom":11,
     "enabled":true,
     "guideColour":[4294902015,4294902015,4294902015,4294902015,],
     "highlightColour":1728023040,
     "highlightStyle":1,
-    "left":3,
+    "left":11,
     "resourceType":"GMNineSliceData",
     "resourceVersion":"2.0",
-    "right":3,
+    "right":11,
     "tileMode":[
       0,
       0,
@@ -58,7 +58,7 @@
       0,
       1,
     ],
-    "top":3,
+    "top":11,
   },
   "origin":0,
   "parent":{

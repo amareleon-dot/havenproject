@@ -6,8 +6,8 @@
   "name":"oGround",
   "overriddenProperties":[],
   "parent":{
-    "name":"havenproject",
-    "path":"havenproject.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":{
     "name":"oGrounds",

@@ -97,9 +97,9 @@ var on_ground = place_meeting(x, y + 1, oGrounds);
 
 // Facing direction
 if (hspd > 0) {
-    image_xscale = -1.5;
+    image_xscale = -1;
 } else if (hspd < 0) {
-    image_xscale = 1.5;
+    image_xscale = 1;
 }
 
 // Animation states
@@ -119,4 +119,12 @@ else {
     if (image_index < 3 || image_index > 4) {
         image_index = 3;          // start at frame 3
     }
+}
+
+if hearts <= 0 {
+	death()
+}
+	
+if place_meeting(x, y, oSpike) {
+	hearts -= 9;
 }

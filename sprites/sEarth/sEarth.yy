@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"sEarth",
   "bboxMode":0,
-  "bbox_bottom":999,
-  "bbox_left":4,
-  "bbox_right":1023,
+  "bbox_bottom":30,
+  "bbox_left":0,
+  "bbox_right":31,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":1024,
+  "height":32,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"0c85ce97-6f4a-4fb6-80bf-35e7c67823fa","blendMode":0,"displayName":"default","isLocked":false,"name":"0c85ce97-6f4a-4fb6-80bf-35e7c67823fa","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1024,
+  "width":32,
 }

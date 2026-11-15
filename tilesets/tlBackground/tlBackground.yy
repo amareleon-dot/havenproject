@@ -8,12 +8,12 @@
     "TileSerialiseData":[],
   },
   "name":"tlBackground",
-  "out_columns":5,
+  "out_columns":3,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"havenproject",
-    "path":"havenproject.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
@@ -34,5 +34,5 @@
   "tileWidth":64,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":256,
+  "tile_count":64,
 }

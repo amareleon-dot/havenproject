@@ -34,3 +34,5 @@ function boost(inst) {
         boost_type = 3;
     }
 }
+
+hearts = 9;

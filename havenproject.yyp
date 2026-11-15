@@ -10,6 +10,9 @@
   },
   "defaultScriptType":0,
   "Folders":[
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[
@@ -23,6 +26,7 @@
   },
   "name":"havenproject",
   "resources":[
+    {"id":{"name":"fDeath","path":"fonts/fDeath/fDeath.yy",},},
     {"id":{"name":"oBooster","path":"objects/oBooster/oBooster.yy",},},
     {"id":{"name":"oGate","path":"objects/oGate/oGate.yy",},},
     {"id":{"name":"oGround","path":"objects/oGround/oGround.yy",},},
@@ -30,7 +34,12 @@
     {"id":{"name":"oKey","path":"objects/oKey/oKey.yy",},},
     {"id":{"name":"oMovePlat","path":"objects/oMovePlat/oMovePlat.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"oSpike","path":"objects/oSpike/oSpike.yy",},},
+    {"id":{"name":"Death","path":"rooms/Death/Death.yy",},},
+    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Story","path":"rooms/Story/Story.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"lumihurtmeow","path":"sounds/lumihurtmeow/lumihurtmeow.yy",},},
     {"id":{"name":"sndElectrometro","path":"sounds/sndElectrometro/sndElectrometro.yy",},},
     {"id":{"name":"sndLumihurtmeow","path":"sounds/sndLumihurtmeow/sndLumihurtmeow.yy",},},
@@ -48,12 +57,16 @@
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sSpace","path":"sprites/sSpace/sSpace.yy",},},
     {"id":{"name":"sSparkle","path":"sprites/sSparkle/sSparkle.yy",},},
+    {"id":{"name":"sSpike","path":"sprites/sSpike/sSpike.yy",},},
     {"id":{"name":"tlBackground","path":"tilesets/tlBackground/tlBackground.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"roomId":{"name":"Story","path":"rooms/Story/Story.yy",},},
+    {"roomId":{"name":"Death","path":"rooms/Death/Death.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"lumihurtmeow",
   "parent":{
-    "name":"havenproject",
-    "path":"havenproject.yyp",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
