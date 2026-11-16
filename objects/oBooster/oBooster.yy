@@ -36,7 +36,7 @@
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"sBooster",
     "path":"sprites/sBooster/sBooster.yy",

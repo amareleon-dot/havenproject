@@ -92,6 +92,12 @@ with (oMovePlat) {
     }
 }
 
+with (oVertMovPlat) {
+    if (place_meeting(x, y + platform_vspd, other)) {
+        other.y += platform_vspd;
+    }
+}
+
 // ===== ANIMATION & FACING =====
 var on_ground = place_meeting(x, y + 1, oGrounds);
 
@@ -127,4 +133,9 @@ if hearts <= 0 {
 	
 if place_meeting(x, y, oSpike) {
 	hearts -= 9;
+}
+
+if place_meeting(x, y, oEarthHitbox) {
+	audio_stop_all()
+	room_goto(Story);
 }
