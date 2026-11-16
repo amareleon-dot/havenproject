@@ -69,6 +69,7 @@
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sPortal","path":"sprites/sPortal/sPortal.yy",},},
     {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},
+    {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
     {"id":{"name":"sShorty","path":"sprites/sShorty/sShorty.yy",},},
     {"id":{"name":"sSpace","path":"sprites/sSpace/sSpace.yy",},},
     {"id":{"name":"sSparkle","path":"sprites/sSparkle/sSparkle.yy",},},

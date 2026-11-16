@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"sBlackHole",
   "bboxMode":0,
-  "bbox_bottom":30,
-  "bbox_left":0,
-  "bbox_right":30,
+  "bbox_bottom":1439,
+  "bbox_left":20,
+  "bbox_right":1442,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"2070b344-02e3-4351-9f14-b9711bf6a099","name":"2070b344-02e3-4351-9f14-b9711bf6a099","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"201941a1-7f71-404a-b13c-0e58fbcf20f4","name":"201941a1-7f71-404a-b13c-0e58fbcf20f4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":32,
+  "height":1472,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"e60b035b-e816-4c93-9137-e1312f91c944","blendMode":0,"displayName":"default","isLocked":false,"name":"e60b035b-e816-4c93-9137-e1312f91c944","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"e46e7761-0e76-4b1c-8783-8c5520770a07","blendMode":0,"displayName":"default","isLocked":false,"name":"e46e7761-0e76-4b1c-8783-8c5520770a07","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sBlackHole",
   "nineSlice":{
@@ -88,8 +88,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2070b344-02e3-4351-9f14-b9711bf6a099","path":"sprites/sBlackHole/sBlackHole.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6c11ddfa-f6a0-42f2-b78b-eea4d9074e15","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"201941a1-7f71-404a-b13c-0e58fbcf20f4","path":"sprites/sBlackHole/sBlackHole.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"58c21931-6d28-405a-a137-e7242c9e7a5c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -105,5 +105,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":32,
+  "width":1472,
 }
